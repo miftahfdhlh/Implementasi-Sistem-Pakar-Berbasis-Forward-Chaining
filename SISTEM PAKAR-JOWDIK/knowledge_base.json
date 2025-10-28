@@ -1,0 +1,1134 @@
+{
+    "gejala": {
+    "G01": {
+      "text": {
+        "text": "Tidak mematuhi norma sosial terkait perilaku yang sah, yang ditunjukkan dengan sering melakukan tindakan yang bisa menyebabkan penangkapan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G02": {
+      "text": {
+        "text": "Suka menipu, yang ditunjukkan dengan sering berbohong, menggunakan nama samaran, atau menipu orang lain untuk keuntungan atau kesenangan pribadi."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G03": {
+      "text": {
+        "text": "Bersikap impulsif atau tidak merencanakan ke depan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G04": {
+      "text": {
+        "text": "Mudah marah dan agresif, yang ditunjukkan dengan sering terlibat dalam perkelahian fisik atau penyerangan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G05": {
+      "text": {
+        "text": "Mengabaikan keselamatan diri sendiri atau orang lain dengan sembrono."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G06": {
+      "text": {
+        "text": "Bersikap tidak bertanggung jawab secara konsisten, yang ditunjukkan dengan sering gagal mempertahankan perilaku kerja yang konsisten atau memenuhi kewajiban keuangan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G07": {
+      "text": {
+        "text": "Tidak merasa menyesal, yang ditunjukkan dengan sikap acuh tak acuh atau merasionalisasi tindakan yang menyakiti, memperlakukan buruk, atau mencuri dari orang lain."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G08": {
+      "text": {
+        "text": "Memiliki ide-ide referensi, tetapi bukan delusi referensi."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G09": {
+      "text": {
+        "text": "Memiliki kepercayaan aneh atau pemikiran magis yang mempengaruhi perilaku dan tidak sesuai dengan norma budaya."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G10": {
+      "text": {
+        "text": "Mengalami persepsi yang tidak biasa, termasuk ilusi tubuh."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G11": {
+      "text": {
+        "text": "Pemikiran dan ucapan yang aneh, samar, atau terlalu rumit."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G12": {
+      "text": {
+        "text": "Mencurigai orang lain atau memiliki pemikiran paranoid."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G13": {
+      "text": {
+        "text": "Menunjukkan ekspresi emosi yang tidak pantas atau terbatas."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G14": {
+      "text": {
+        "text": "Memiliki perilaku atau penampilan yang aneh, eksentrik, atau unik."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G15": {
+      "text": {
+        "text": "Tidak memiliki teman dekat atau orang kepercayaan, selain keluarga dekat."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G16": {
+      "text": {
+        "text": "Mengalami kecemasan sosial yang berlebihan yang tidak berkurang meskipun sudah akrab."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G17": {
+      "text": {
+        "text": "Tidak menginginkan atau menikmati hubungan dekat, termasuk hubungan keluarga."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G18": {
+      "text": {
+        "text": "Hampir selalu memilih untuk melakukan aktivitas sendirian."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G19": {
+      "text": {
+        "text": "Hampir tidak tertarik pada pengalaman seksual dengan orang lain."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G20": {
+      "text": {
+        "text": "Hanya menikmati sedikit aktivitas, jika ada."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G21": {
+      "text": {
+        "text": "Tidak memiliki teman dekat atau orang kepercayaan, kecuali keluarga terdekat."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G22": {
+      "text": {
+        "text": "Terlihat acuh tak acuh terhadap pujian atau kritik dari orang lain."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G23": {
+      "text": {
+        "text": "Menunjukkan ketidakpedulian emosional, sikap dingin, atau ekspresi emosi yang datar."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G24": {
+      "text": {
+        "text": "Mencurigai orang lain tanpa alasan yang cukup, mengira mereka mengeksploitasi atau menipu dirinya."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G25": {
+      "text": {
+        "text": "Terobsesi dengan keraguan yang tidak beralasan tentang kesetiaan teman atau rekan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G26": {
+      "text": {
+        "text": "Enggan menceritakan sesuatu kepada orang lain karena takut informasi digunakan secara jahat."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G27": {
+      "text": {
+        "text": "Menafsirkan makna tersembunyi yang merendahkan atau mengancam dalam pernyataan biasa."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G28": {
+      "text": {
+        "text": "Selalu mendendam, tidak memaafkan penghinaan atau pelanggaran."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G29": {
+      "text": {
+        "text": "Melihat serangan terhadap karakter atau reputasinya yang tidak terlihat oleh orang lain dan cepat bereaksi marah."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G30": {
+      "text": {
+        "text": "Memiliki kecurigaan berulang tanpa alasan mengenai kesetiaan pasangan atau pasangan seksual."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G31": {
+      "text": {
+        "text": "Terlalu terobsesi dengan detail, aturan, daftar, atau jadwal sehingga tujuan utama aktivitas hilang."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G32": {
+      "text": {
+        "text": "Menunjukkan perfeksionisme yang menghambat penyelesaian tugas."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G33": {
+      "text": {
+        "text": "Terlalu berfokus pada pekerjaan dan produktivitas hingga mengabaikan aktivitas rekreasi."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G34": {
+      "text": {
+        "text": "Sangat teliti, cermat, dan kaku tentang masalah moral atau nilai-nilai."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G35": {
+      "text": {
+        "text": "Tidak mampu membuang barang-barang usang atau tidak berharga."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G36": {
+      "text": {
+        "text": "Enggan mendelegasikan tugas kecuali orang lain mengikuti caranya secara persis."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G37": {
+      "text": {
+        "text": "Mengadopsi gaya pengeluaran yang pelit terhadap diri sendiri dan orang lain."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G38": {
+      "text": {
+        "text": "Menunjukkan kekakuan dan keras kepala."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G39": {
+      "text": {
+        "text": "Memiliki rasa penting diri yang berlebihan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G40": {
+      "text": {
+        "text": "Terobsesi dengan fantasi tentang kesuksesan tanpa batas, kekuasaan, atau kecemerlangan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G41": {
+      "text": {
+        "text": "Percaya bahwa dirinya spesial dan hanya bisa dipahami oleh orang berstatus tinggi."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G42": {
+      "text": {
+        "text": "Membutuhkan pengaguman yang berlebihan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G43": {
+      "text": {
+        "text": "Memiliki rasa hak istimewa dan harapan mendapat perlakuan istimewa."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G44": {
+      "text": {
+        "text": "Eksploitatif dalam hubungan antarpribadi untuk mencapai tujuannya."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G45": {
+      "text": {
+        "text": "Kurang empati terhadap perasaan dan kebutuhan orang lain."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G46": {
+      "text": {
+        "text": "Sering iri pada orang lain atau percaya bahwa orang lain iri padanya."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G47": {
+      "text": {
+        "text": "Menunjukkan perilaku atau sikap yang arogan dan sombong."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G48": {
+      "text": {
+        "text": "Merasa tidak nyaman dalam situasi di mana dia bukan pusat perhatian."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G49": {
+      "text": {
+        "text": "Interaksi dengan orang lain sering ditandai perilaku seksual yang tidak pantas atau provokatif."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G50": {
+      "text": {
+        "text": "Menunjukkan perubahan emosi yang cepat dan ekspresi emosi yang dangkal."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G51": {
+      "text": {
+        "text": "Secara konsisten menggunakan penampilan fisik untuk menarik perhatian."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G52": {
+      "text": {
+        "text": "Memiliki gaya bicara yang berlebihan dan kurang mendetail."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G53": {
+      "text": {
+        "text": "Menunjukkan dramatisasi diri, sikap teatrikal, dan ekspresi emosi berlebihan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G54": {
+      "text": {
+        "text": "Mudah terpengaruh oleh orang lain atau situasi."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G55": {
+      "text": {
+        "text": "Menganggap hubungan lebih intim daripada yang sebenarnya."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G56": {
+      "text": {
+        "text": "Sulit membuat keputusan sehari-hari tanpa banyak nasihat dan kepastian dari orang lain."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G57": {
+      "text": {
+        "text": "Membutuhkan orang lain untuk mengambil tanggung jawab atas sebagian besar aspek hidupnya."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G58": {
+      "text": {
+        "text": "Sulit mengekspresikan ketidaksetujuan dengan orang lain karena takut kehilangan dukungan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G59": {
+      "text": {
+        "text": "Sulit memulai proyek atau melakukan sesuatu sendiri karena kurang percaya diri."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G60": {
+      "text": {
+        "text": "Berusaha keras mendapatkan dukungan orang lain bahkan dengan melakukan hal tidak menyenangkan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G61": {
+      "text": {
+        "text": "Merasa tidak nyaman atau tidak berdaya saat sendirian karena takut tidak bisa merawat diri."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G62": {
+      "text": {
+        "text": "Segera mencari hubungan lain sebagai sumber dukungan saat hubungan sebelumnya berakhir."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G63": {
+      "text": {
+        "text": "Terobsesi secara tidak realistis dengan ketakutan akan ditinggalkan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G64": {
+      "text": {
+        "text": "Usaha mati-matian untuk menghindari perasaan ditinggalkan yang nyata atau imajiner."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G65": {
+      "text": {
+        "text": "Pola hubungan interpersonal tidak stabil dengan perubahan ekstrem antara idealisasi dan devaluasi."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G66": {
+      "text": {
+        "text": "Gangguan identitas dengan citra diri yang tidak stabil."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G67": {
+      "text": {
+        "text": "Bersikap impulsif dalam dua area yang berpotensi merusak diri sendiri."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G68": {
+      "text": {
+        "text": "Perilaku, isyarat, atau ancaman bunuh diri yang berulang atau perilaku melukai diri sendiri."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G69": {
+      "text": {
+        "text": "Ketidakstabilan emosional akibat reaktivitas suasana hati yang tinggi."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G70": {
+      "text": {
+        "text": "Perasaan hampa yang kronis."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G71": {
+      "text": {
+        "text": "Marah yang tidak pantas dan intens atau kesulitan mengendalikan kemarahan."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G72": {
+      "text": {
+        "text": "Ide paranoid yang bersifat sementara dan terkait stres atau gejala disosiatif."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G73": {
+      "text": {
+        "text": "Menghindari aktivitas pekerjaan yang melibatkan kontak interpersonal karena takut kritik."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G74": {
+      "text": {
+        "text": "Tidak mau terlibat dengan orang lain kecuali yakin akan disukai."
+        
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G75": {
+      "text": {
+        "text": "Menunjukkan pengekangan dalam hubungan intim karena takut dipermalukan atau direndahkan."
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G76": {
+      "text": {
+        "text": "Terobsesi dengan kemungkinan dikritik atau ditolak dalam situasi sosial."
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G77": {
+      "text": {
+        "text": "Terhambat dalam situasi interpersonal yang baru karena merasa tidak cukup."
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G78": {
+      "text": {
+        "text": "Melihat diri sendiri sebagai orang yang tidak cakap secara sosial atau lebih rendah dari orang lain."
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    },
+    "G79": {
+      "text": {
+        "text": "Sangat enggan mengambil risiko pribadi atau terlibat dalam aktivitas baru karena takut malu."
+      },
+      "cf_options": {
+        "Tidak Sama Sekali": 0.0,
+        "Tidak Tahu": 0.2,
+        "Kadang": 0.4,
+        "Cukup Sering": 0.6,
+        "Sering": 0.8,
+        "Sangat Sering": 1.0
+      }
+    }
+  },
+  
+  "rules": [
+    { "id": "R1", "if": ["G01","G02","G03","G04","G05","G06","G07"], "then": "P1", "cf": 1.0 },
+    { "id": "R2", "if": ["G08","G09","G10","G11","G12","G13","G14","G15","G16"], "then": "P2", "cf": 1.0 },
+    { "id": "R3", "if": ["G16","G17","G18","G19","G20","G21","G22","G23"], "then": "P3", "cf": 1.0 },
+    { "id": "R4", "if": ["G24","G25","G26","G27","G28","G29","G30"], "then": "P4", "cf": 1.0 },
+    { "id": "R5", "if": ["G31","G32","G33","G34","G35","G36","G37","G38"], "then": "P5", "cf": 1.0 },
+    { "id": "R6", "if": ["G39","G40","G41","G42","G43","G44","G45","G46","G47"], "then": "P6", "cf": 1.0 },
+    { "id": "R7", "if": ["G39","G42","G45","G47"], "then": "P6", "cf": 0.7 },
+    { "id": "R8", "if": ["G40","G41","G43","G46"], "then": "P6", "cf": 0.9 }, 
+    { "id": "R9", "if": ["G48","G49","G50","G51","G52","G53","G54","G55"], "then": "P7", "cf": 1.0 },
+    { "id": "R10", "if": ["G56","G57","G58","G59","G60","G61","G62","G63"], "then": "P8", "cf": 1.0 },
+    { "id": "R11", "if": ["G64","G65","G66","G67","G68","G69","G70","G71","G72"], "then": "P9", "cf": 1.0 },
+    { "id": "R12", "if": ["G73","G74","G75","G76","G77","G78","G79"], "then": "P10", "cf": 1.0 }
+  ],
+
+  "gangguan": {
+    "P1": "Antisocial",
+    "P2": "Schizotypal",
+    "P3": "Schizoid",
+    "P4": "Paranoid",
+    "P5": "Obsessive-Compulsive",
+    "P6": "Narcissistic",
+    "P7": "Histrionic",
+    "P8": "Dependent",
+    "P9": "Borderline",
+    "P10": "Avoidant"
+  }
+  
+}
